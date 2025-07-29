@@ -15,7 +15,7 @@
 
 ## 🌐 About Me
 
-I’m Hushan Ridmika, an Electrical Engineering undergrad at the University of Moratuwa, ignited by an unquenchable passion for **Artificial Intelligence**, **Machine Learning**, **Large Language Models (LLMs)**, **Agents**, and **Intelligent Systems**. I’m a visionary builder, crafting AI solutions that fuse groundbreaking innovation with tangible impact—whether it’s offline recommendation engines or optimized LLM architectures. My journey thrives on creativity, technical mastery, and a relentless drive to push boundaries.  
+I’m Hushan Ridmika, an Electrical Engineering undergrad at the University of Moratuwa, ignited by an unquenchable passion for **Artificial Intelligence**, **Machine Learning**, **Large Language Models (LLMs)**, **Agents**, and **Intelligent Systems**. I’m a visionary builder, crafting AI solutions that fuse groundbreaking innovation with tangible impact. My journey thrives on creativity, technical mastery, and a relentless drive to push boundaries.  
 
 ---
 
@@ -29,16 +29,25 @@ I’m Hushan Ridmika, an Electrical Engineering undergrad at the University of M
 
 ---
 
-## 💼 Spotlight Projects
+## 🚀 Spotlight Projects
 
-### 🥾 **ShoeIQ - AI-Powered Smart Shoe Rack System**  
-- Led a 3-member team in designing and deploying an end-to-end AI solution that intelligently recommends footwear using a custom-built ML pipeline—leveraging OpenCV for real-time outfit color analysis, weather APIs, occasion-based input, and user behavior to deliver personalized, context-aware recommendations entirely offline on a Raspberry Pi.  
-- Spearheaded the development of a hybrid wetness detection system by fusing signals from a capacitive soil moisture sensor with computer vision-based wetness estimation. This custom sensing approach ensured high-accuracy detection of both internal and sole moisture levels—enhancing decision reliability.  
-- Architected and implemented a LabVIEW-integrated PID control loop to dynamically modulate a Rigol Ultra Sigma power supply, adjusting fan speed in real time based on the measured wetness of the shoe. Also handled PWM-to-voltage conversion and analog signal processing for precise control of NEMA stepper motors—demonstrating advanced system integration across AI, embedded instrumentation, and control engineering.  
+### 🥾 ShoeIQ – AI-Powered Smart Shoe Rack System  
+A full-stack AI solution built for the real world—offline, intelligent, and personalized.
 
-### 🤝 **Multi-Agent Support System with CrewAI**  
-- Unleashed a revolutionary multi-agent ecosystem with CrewAI, orchestrating a symphony of intelligent agents that redefine customer support. Designed a charismatic **Senior Support Representative** with ScrapWebsiteTool integration, delivering witty, context-rich responses, and a meticulous **Support Quality Assurance Specialist** to enforce flawless accuracy. This dynamic duo collaborates seamlessly, leveraging memory-driven insights and robust guardrails to transform support into an engaging, human-like experience—setting a new benchmark for AI-driven collaboration.  
-   
+- 👟 Led a 3-member engineering team to build an **AI-powered footwear recommendation engine** on a *Raspberry Pi*, using a custom ML pipeline. Integrated **OpenCV** for real-time outfit color analysis, weather APIs, and occasion-aware logic to deliver **fully offline, context-sensitive suggestions**.
+- 🌧️ Engineered a **hybrid wetness detection system**, fusing input from a *capacitive soil moisture sensor* and *computer vision-based estimation*. This innovation ensured **high-accuracy detection** of both internal and sole moisture—enhancing automation reliability.
+- ⚙️ Designed and implemented a **LabVIEW-integrated PID control loop** to dynamically adjust a *Rigol Ultra Sigma* power supply. Orchestrated real-time fan speed modulation, PWM-to-voltage conversion, and **precision NEMA motor control**—demonstrating seamless AI + control systems integration.
+
+---
+
+### 🤖 Multi-Agent Support System with CrewAI  
+Collaborative intelligence in action—multi-agent orchestration that redefines support.
+
+- 🧩 Designed a modular **multi-agent ecosystem** using *CrewAI*, purpose-built to simulate professional-grade support workflows.
+- 🗣️ Developed a **Senior Support Representative agent** integrated with *ScrapWebsiteTool* to deliver rich, human-like responses with wit, memory, and accuracy.
+- ✅ Built a **Support Quality Assurance Specialist** agent that enforced dialogue correctness using embedded memory, rule-based evaluation, and context tracking.
+- 🔁 Together, these agents demonstrated dynamic coordination, **memory persistence**, and AI-to-AI cooperation—setting a **new standard in LLM-powered agentic systems**.
+
 ---
 
 ## 🛠️ Tech Arsenal
