@@ -28,7 +28,7 @@ Let’s build the future of intelligence. 🚀
 
 ## 🧠 My Focus Areas
 
-- 🤖 LLMs, Prompt Engineering & Summarization  
+- 🤖 LLMs  
 - 🕸️ Agentic Architectures (CrewAI, LangGraph)  
 - 📄 RAG, memory chaining, vector DBs  
 - 🧪 PEFT, LoRA, QLoRA finetuning  
