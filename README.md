@@ -2,7 +2,7 @@
 <!-- <img src="banner.png" alt="banner" style="width:100%;"> -->
 
 <h1 align="center">Hi there, I'm Hushan Ridmika 👋</h1>
-<h3 align="center">AI/ML Enthusiast | Embedded Systems Developer | Electrical Engineering @ University of Moratuwa</h3>
+<h3 align="center">AI/ML Enthusiast | Electrical Engineering @ University of Moratuwa</h3>
 
 <p align="center">
   <a href="mailto:hushan1011@gmail.com"><img src="https://img.shields.io/badge/Email-hushan1011@gmail.com-red?style=flat&logo=gmail"></a>
@@ -89,5 +89,5 @@ With a background in Electrical Engineering, I'm passionate about building real-
 
 - 💼 [LinkedIn](https://linkedin.com/in/hushan-ridmika-a09745330/)
 - 📧 [Email](mailto:hushan1011@gmail.com)
-- 🌐 [Portfolio Site](#) — *Coming Soon!*
+
 
