@@ -95,8 +95,4 @@ LangChain-powered GPT assistant with context-aware multi-turn conversations
 
 - 🔗 [LinkedIn](https://linkedin.com/in/hushan-ridmika-a09745330)
 - 📧 [Email](mailto:hushan1011@gmail.com)
-- 🌐 Portfolio: *coming soon*
 
----
-
-🧭 _Exploring language, automation & intelligence through code — one agent at a time._
