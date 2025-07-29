@@ -1,6 +1,3 @@
-<!-- Optional banner -->
-![AI Innovator Banner](https://raw.githubusercontent.com/Hushan-10/Hushan-10/main/banner.png)
-
 # 🚀 Hushan Ridmika - AI Trailblazer & Innovator 👨‍💻
 
 ### 🌟 Electrical Engineering Undergraduate | Passionate about AI, ML, LLMs, Agents, & Intelligent Systems
