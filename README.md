@@ -21,11 +21,11 @@ I’m Hushan Ridmika, an Electrical Engineering undergrad at the University of M
 
 ## 🎯 My AI Passion Zones
 
-- 🤖 **LLMs & Conversational AI**: Pioneering smart, context-aware chatbots and summarizers.
-- 🧠 **Agentic Architectures**: Mastering multi-agent systems with CrewAI and LangGraph.
-- 📚 **RAG & Vector DBs**: Elevating AI with retrieval-augmented generation.
-- 🛠️ **Model Optimization**: Leading PEFT, LoRA, and QLoRA for efficient finetuning.
-- 🌍 **Human-Centered AI**: Crafting transformative, real-world applications.
+- 🤖 LLMs
+- 🕸️ Agentic Architectures (CrewAI, LangGraph)  
+- 📄 RAG, memory chaining, vector DBs  
+- 🧪 PEFT, LoRA, QLoRA finetuning  
+- 💡 Real-world, human-centered AI applications.
 
 ---
 
