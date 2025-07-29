@@ -32,7 +32,7 @@ I’m Hushan Ridmika, an Electrical Engineering undergrad at the University of M
 ## 🚀 Spotlight Projects
 
 ### 🥾 ShoeIQ – AI-Powered Smart Shoe Rack System  
-A full-stack AI solution built for the real world—offline, intelligent, and personalized.
+A full-stack AI solution built for the real world, intelligent, and personalized.
 
 - 👟 Led a 3-member engineering team to build an **AI-powered footwear recommendation engine** on a *Raspberry Pi*, using a custom ML pipeline. Integrated **OpenCV** for real-time outfit color analysis, weather APIs, and occasion-aware logic to deliver **fully offline, context-sensitive suggestions**.
 - 🌧️ Engineered a **hybrid wetness detection system**, fusing input from a *capacitive soil moisture sensor* and *computer vision-based estimation*. This innovation ensured **high-accuracy detection** of both internal and sole moisture—enhancing automation reliability.
