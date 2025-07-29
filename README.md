@@ -53,44 +53,34 @@ Designed an ESP32-based, MQTT-optimized medication monitor with Wokwi simulation
 ## 🛠️ Tech Arsenal
 
 ### 📚 **Languages**  
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++)  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
 
 ### 🧠 **AI/ML Frameworks**  
-<p align="center">
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)  
-  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface)  
-  ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn)  
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface)  
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn)  
 
 ### 🔗 **Agentic & LLM Tools**  
-<p align="center">
-  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)  
-  ![CrewAI](https://img.shields.io/badge/CrewAI-E63946?style=for-the-badge)  
-  ![LangGraph](https://img.shields.io/badge/LangGraph-008080?style=for-the-badge)  
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)  
+![CrewAI](https://img.shields.io/badge/CrewAI-E63946?style=for-the-badge)  
+![LangGraph](https://img.shields.io/badge/LangGraph-008080?style=for-the-badge)  
 
 ### ☁️ **DevOps & Infrastructure**  
-<p align="center">
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
-  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)  
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)  
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)  
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)  
 
 ### 🛠️ **Embedded & IoT**  
-<p align="center">
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi)  
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)  
-  ![ESP32](https://img.shields.io/badge/ESP32-0A4F6B?style=for-the-badge)  
-  ![Node-RED](https://img.shields.io/badge/Node-RED-8F44D4?style=for-the-badge)  
-</p>
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)  
+![ESP32](https://img.shields.io/badge/ESP32-0A4F6B?style=for-the-badge)  
+![Node-RED](https://img.shields.io/badge/Node-RED-8F44D4?style=for-the-badge)  
 
 ---
 
