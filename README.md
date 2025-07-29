@@ -73,7 +73,7 @@ LangChain-powered GPT assistant with context-aware multi-turn conversations
 ![CrewAI](https://img.shields.io/badge/CrewAI-E63946?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-008080?style=for-the-badge)
 
-### 🧰 Tools & Infra  
+### ☁️ Cloud / DevOps 
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
